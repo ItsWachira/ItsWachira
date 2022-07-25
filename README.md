@@ -21,6 +21,7 @@
  
 ### :woman_technologist: About Me👨‍💻😊  :
 - 👨‍💻 I'm a Student|| fullstack developer || I sometimes draw. I am currently freelancing as a frontend developer.
+- 📖 Read my latest blogs on <a href = "https://itswachira.hashnode.dev/"> Hashnode.</a>
 - 👀 I’m interested in web, mobile and cloud development, DataScience, Machine Learning and AI
 - 🌱 I’m currently learning python ultimately jump into building the backend for mobile and web apps with flask/django...:)
 - 💞️ I’m looking to collaborate on web and mobile development projects
