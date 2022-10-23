@@ -25,6 +25,7 @@
  ---
  
 ### :woman_technologist: About Me👨‍💻😊  :
+<a href="https://app.daily.dev/codebytes"><img src="https://api.daily.dev/devcards/0da69cb647744ba6bbbfe42a1713318c.png?r=u32" width="400" alt="Brian Wachira's Dev Card"/></a>
 - 👨‍💻 I'm a Student|| fullstack developer || I sometimes draw. I am currently freelancing as a frontend developer.
 - 📖 Read my latest blogs on <a href = "https://itswachira.hashnode.dev/"> Hashnode.</a>
 - 👀 I’m interested in web, mobile and cloud development, DataScience, Machine Learning and AI
