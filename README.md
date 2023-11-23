@@ -1,9 +1,10 @@
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-<!--   <a href="https://www.linkedin.com/in/brian-wachira-986493210/">
+    <a href="https://www.linkedin.com/in/gichuhi-wachira/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+<!--  
   <a href="https://twitter.com/_Brian_Wachira">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> -->
@@ -27,7 +28,7 @@
 ### :woman_technologist: About Me👨‍💻😊  :
 <a href="https://app.daily.dev/codebytes"><img src="https://api.daily.dev/devcards/0da69cb647744ba6bbbfe42a1713318c.png?r=u32" width="400" alt="Brian Wachira's Dev Card"/></a>
 - 👨‍💻 I'm  developer || I sometimes draw. I am currently freelancing as a frontend developer.
-- 📖 Read my latest blogs on <a href = "https://itswachira.hashnode.dev/"> Hashnode.</a>
+- 📖 Read my latest blogs on <a href = "https://dailytechbytes.hashnode.dev/"> Hashnode.</a>
 - 👀 I’m interested in web, mobile and cloud development, DataScience, Machine Learning and AI
 - 🌱 I’m currently learning python ultimately jump into building the backend for mobile and web apps with flask/django...:)
 - 💞️ I’m looking to collaborate on web and mobile development projects
