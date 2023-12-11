@@ -27,10 +27,22 @@
  
 ### :woman_technologist: About Me👨‍💻😊  :
 <a href="https://app.daily.dev/codebytes"><img src="https://api.daily.dev/devcards/0da69cb647744ba6bbbfe42a1713318c.png?r=u32" width="400" alt="Brian Wachira's Dev Card"/></a>
-- 👨‍💻 I'm  developer || I sometimes draw. I am currently freelancing as a frontend developer.
-- 📖 Read my latest blogs on <a href = "https://dailytechbytes.hashnode.dev/"> Hashnode.</a>
-- 👀 I’m interested in web, mobile and cloud development, DataScience, Machine Learning and AI
-- 🌱 I’m currently learning python ultimately jump into building the backend for mobile and web apps with flask/django...:)
+- 👨‍💻 As a full-stack developer, I possess a strong expertise in Python, JavaScript, and Node.js, enabling me to excel in both backend and frontend development. I am proficient in architecting and implementing efficient 
+     solutions to software challenges, ensuring a seamless user experience across the entire application.
+- 👨‍💻 On the backend, I specialize in designing REST or GraphQL APIs, optimizing database performance, and ensuring data security. I am experienced in building robust backend infrastructure that supports scalable and 
+     reliable applications. I prioritize delivering high-quality, maintainable code that adheres to best practices and industry standards.
+
+- 👨‍💻 In the frontend, I have a solid foundation in building modern web applications using React and Next.js. I leverage the power of these frameworks to create dynamic user interfaces with reusable components and 
+   efficient rendering. I am adept at utilizing HTML, CSS, and JavaScript within the React and Next.js ecosystem to craft visually appealing and interactive user interfaces.
+
+- ✍️ Technical Writer ✍️
+
+    I'm not just about writing code; I'm also about documenting it effectively. As a technical writer, I transform technical concepts into user-friendly documentation and guides, ensuring that developers and end-users 
+    alike can understand and utilize software to its fullest potential.
+  
+- 📖 Read my latest blogs on <a href = "https://www.makeuseof.com/author/gichuhi-wachira/"> MakeUseOf.</a>
+- 👀 I’m interested in web, mobile, and cloud development, data science, Machine Learning, and AI
+  
 - 💞️ I’m looking to collaborate on web and mobile development projects
 - 📩  Connect with me
 -  <div id="badges">
