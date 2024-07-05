@@ -40,7 +40,7 @@
 
     I'm not just about writing code; I'm also about documenting it effectively. As a technical writer, I transform technical concepts into user-friendly documentation and guides, ensuring that developers and end-users 
     alike can understand and utilize software to its fullest potential.
-  
+  -->
 - 📖 Read my latest blogs on <a href = "https://www.makeuseof.com/author/gichuhi-wachira/"> MakeUseOf.</a>
 - 👀 I’m interested in web, mobile, and cloud development, data science, Machine Learning, and AI
   
@@ -50,7 +50,7 @@
     <a href="https://www.linkedin.com/in/gichuhi-wachira/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
--->
+
 </div>
 <!-- - 📫 How to reach me : send me a dm via email at dev.brianwachira@gmail.com -->
 - 🏠 Kenya, I love it here.
