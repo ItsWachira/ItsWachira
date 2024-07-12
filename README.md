@@ -39,7 +39,8 @@
 - ✍️ Technical Writer ✍️
 
     I'm not just about writing code; I'm also about documenting it effectively. As a technical writer, I transform technical concepts into user-friendly documentation and guides, ensuring that developers and end-users 
-    alike can understand and utilize software to its fullest potential.
+    alike can understand and utilize software to its fullest potential. 
+    alike can understand and utilize software to its fullest potential. 
   -->
 - 📖 Read my latest blogs on <a href = "https://www.makeuseof.com/author/gichuhi-wachira/"> MakeUseOf.</a>
 - 👀 I’m interested in web, mobile, and cloud development, data science, Machine Learning, and AI
@@ -47,7 +48,7 @@
 - 💞️ I’m looking to collaborate on web and mobile development projects
 - 📩  Connect with me
 -  <div id="badges">
-    <a href="https://www.linkedin.com/in/gichuhiiiiiiii-wachira/">
+  
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
