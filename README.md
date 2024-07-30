@@ -25,7 +25,7 @@
  
  ---
  
-### t: About Me👨‍💻😊  :
+### About Me👨‍💻😊  :
 <!-- - 
 // <a href="https://app.daily.dev/codebytes"><img src="https://api.daily.dev/devcards/0da69cb647744ba6bbbfe42a1713318c.png?r=u32" width="400" alt="Brian Wachira's Dev Card"/></a>
 - 👨‍💻 As a full-stack developer, I possess a strong expertise in Python, JavaScript, and Node.js, enabling me to excel in both backend and frontend development. I am proficient in architecting and implementing efficient 
