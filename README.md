@@ -10,18 +10,18 @@
   </a> 
 </div> -->
   <img src="https://komarev.com/ghpvc/?username=ItsWachira&style=flat-square&color=orange" alt=""/>
-  <h1>
+<!--   <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <h3>
   Thanks for taking time to visit and read my GitHub profile 💙..:)). 
-  </h3>
-  <div align="center">
+  </h3> -->
+<!--   <div align="center">
 <!--   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> -->
    </div>
    <h3> 👋💡Fun Fact - Problems can be fun, if you are creative with them!!!😊 </h3>
-  </div>
+  </div> -->
  
  ---
  
@@ -43,7 +43,7 @@
     alike can understand and utilize software to its fullest potential. 
   -->
 - 📖 Read my latest blogs on <a href = "https://www.makeuseof.com/author/gichuhi-wachira/"> MakeUseOf.</a>
-- 👀 I’m interested in web, mobile, and cloud development, data science, Machine Learning, and AI
+- 👀 I’m interested in building scalable distributed systems.
   
 - 💞️ I’m looking to collaborate on web and mobile development projects
 - 📩  Connect with me
@@ -54,7 +54,7 @@
 
 </div>
 <!-- - 📫 How to reach me : send me a dm via email at dev.brianwachira@gmail.com -->
-- 🏠 Kenya, I love it here.
+
 
 ---
 
